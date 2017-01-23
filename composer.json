@@ -1,0 +1,11 @@
+{
+    "name": "cvs89/compait_product",
+    "type": "bigcommerce app",
+    "authors": [
+        {
+            "name": "Chandraveer singh",
+            "email": "chandraveer@cvssolutions.in"
+        }
+    ],
+    "require": {}
+}
